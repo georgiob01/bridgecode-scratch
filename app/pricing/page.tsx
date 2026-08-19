@@ -8,6 +8,7 @@ export default function PricingPage() {
   return (
     <main>
       <h1>Pricing</h1>
+      <p>Every plan includes email support.</p>
       <p>Simple monthly plans. Cancel anytime.</p>
       <PricingTable plans={plans} />
     </main>
