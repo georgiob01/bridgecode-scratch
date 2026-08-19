@@ -3,6 +3,9 @@ export default function Home() {
     <main>
       <h1>Welcome to the Scratch Site</h1>
       <p>This homepage exists so Bridgecode sessions have something to change.</p>
+      <footer>
+        <p>Made with care by a tiny team.</p>
+      </footer>
     </main>
   )
 }
